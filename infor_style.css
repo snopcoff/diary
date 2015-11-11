@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 27, 2015, 8:43:05 AM
+    Author     : user
+*/
+body{
+    min-width: 960px;
+    background-color: green;
+}
+
+#wrapper{
+    margin: 5px 5px 5px 5px;
+    min-width: 960px;
+    min-height: 1000px;
+}
+
+#top{
+    height: 125px;
+    width: 100%;
+    background-color: blue;
+    top: 0px;
+}
+
+#middle{
+    position: relative;
+    height: 1000px;
+    width: 100%;
+    background-color: pink;
+    border-color: black;
+    border-width: 5px;
+}
+
+#bottom{
+    height: 125px;
+    width: 100%;
+    background-color: crimson;
+}
+
+.reg_form{
+    position: absolute;
+    height: 100%;
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    background-blend-mode: difference;
+    left: 15%;
+}
+
+input{
+    size: 150px;
+}
