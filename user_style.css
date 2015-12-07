@@ -66,13 +66,14 @@ div{
 .inner_setting{
 	background-color: purple;
 	width: 960px;
+	height: 960px;
 }
 
 .post_setting{
 	background-color: white;
 	margin-left: 5px;
-	width: 70%;
-	height: 960px;
+	width: 960px;
+	min-height: 960px;
 }
 
 .side_setting{

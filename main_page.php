@@ -21,7 +21,7 @@ and open the template in the editor.
                     </form>
                 </li>
                 <li class="the_user">
-                	<input class="button" type="button" onClick="location.href='userview.php'" />
+                	<input class="ubutton" type="button" onClick="location.href='userview.php'" style="background-image:url('avatar/ava.jpg');" />
                 </li>
             </ul>
         </div>

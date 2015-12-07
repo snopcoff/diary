@@ -63,6 +63,12 @@ div{
 	color: white;
 }
 
+.ubutton{
+	background-size: cover;
+	height: 50px;
+	width: 50px;
+}
+
 #themiddle{
 	padding-top: 5px;
 }
