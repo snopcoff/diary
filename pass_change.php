@@ -12,7 +12,7 @@ and open the template in the editor.
     </head>
     <body>
         <div id="wrapper">
-        	<form>
+        	<form method="POST">
         		<div>
         			<label>Email</label>
         			<input type="text" name="email" size="30" />
